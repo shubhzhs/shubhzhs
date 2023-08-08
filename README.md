@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
+<h1 align="center">Hi 👋, I'm Shubham Sonawane</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhzhs" alt="shubhzhs" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs**
+- 🌱 I’m currently learning **NodeJS, ExpressJS**
 
 - 💬 Ask me about **react**
 
