@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhzhs" alt="shubhzhs" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS**
+- 🌱 I’m currently learning **NextJS, Java**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React Js**
 
 - 📫 How to reach me **shubhamhs.dev@gmail.com**
 
